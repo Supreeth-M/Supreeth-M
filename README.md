@@ -9,7 +9,6 @@
     </td>
     <td>
       <img src="https://images.wallpapersden.com/image/download/shanks-4k-one-piece-illustration_bWtoa2WUmZqaraWkpJRobWllrWdpam4.jpg" alt="thoor" width="400" height="300" />
-      
     </td>
   </tr>
 </table>
